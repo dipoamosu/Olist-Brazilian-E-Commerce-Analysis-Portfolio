@@ -191,7 +191,7 @@ Brazilian-Ecommerce-Analytics/
 │   ├── OLIST.sql
 │   ├── ANALYSIS_FOR_OLIST.sql
 │
-├── notebooks/
+├── python_notebooks/
 │   ├── olist_data_clean.ipynb
 │   ├── olist_machine_learning.ipynb
 │
