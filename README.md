@@ -264,6 +264,6 @@ Data Analyst | Python | SQL | Power BI | Machine Learning
 
 LinkedIn: [linkedin.com/in/peter-oladipupo-amosu-05210735b](linkedin.com/in/peter-oladipupo-amosu-05210735b)
 
-GitHub: *(Add your GitHub URL)*
+GitHub: [https://github.com/dipoamosu](https://github.com/dipoamosu)
 
 ---
