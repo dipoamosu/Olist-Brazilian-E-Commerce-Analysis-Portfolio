@@ -1,3 +1,4 @@
+<img width="1915" height="1078" alt="ERD" src="https://github.com/user-attachments/assets/03fcffd4-7330-4b94-aaf6-050ea2a6eaa0" />
 # Peter's Portfolio
 
 # [Brazilian E-Commerce Customer Satisfaction Prediction & Business Intelligence Dashboard](https://github.com/dipoamosu/Olist-Brazilian-E-Commerce-Analysis-Portfolio)
@@ -66,6 +67,7 @@ which contains information about:
 - Entity Relationship Diagram (ERD)
 - Common Table Expressions (CTEs)
 - Business KPI analysis
+<img width="1915" height="1078" alt="ERD" src="https://github.com/user-attachments/assets/1c19d321-06e7-4f17-845b-148921e41855" />
 
 ---
 
@@ -76,6 +78,11 @@ Libraries used:
 - NumPy
 - Scikit-learn
 - ftfy
+<img width="658" height="788" alt="removing spaces and cleaning texts" src="https://github.com/user-attachments/assets/9c7c0859-8d46-40a0-9ed6-8d7d72c041e7" />
+<img width="885" height="708" alt="using ftfy library to fix the dataset" src="https://github.com/user-attachments/assets/562cbd00-e63a-496e-ba82-791bcc885e1b" />
+<img width="551" height="396" alt="pipeline" src="https://github.com/user-attachments/assets/6af4f3d0-0c7d-4bdd-a0fc-77b836c96453" />
+
+
 
 Tasks completed:
 
@@ -108,11 +115,6 @@ Classification
 Model Evaluation
 - Accuracy
 - Precision
-- Recall
-- F1 Score
-- Confusion Matrix
-- ROC Curve
-
 ---
 
 ## Power BI
