@@ -183,7 +183,7 @@ Power BI Dashboard
 ```
 Brazilian-Ecommerce-Analytics/
 │
-├── data/
+├── OLIST DATA/
 │   ├── raw/
 │   └── processed/
 │
@@ -192,16 +192,13 @@ Brazilian-Ecommerce-Analytics/
 │   ├── ANALYSIS_FOR_OLIST.sql
 │
 ├── python_notebooks/
-│   ├── olist_data_clean.ipynb
+│   ├── Olist_Data_Clean.ipynb
 │   ├── olist_machine_learning.ipynb
-│
-├── models/
-│   ├── customer_satisfaction_model.pkl
 │
 ├── dashboards/
 │   ├── Customer Satisfaction Dashboard.pbix
 │
-├── "C:\Users\dipoa\Desktop\DATASETS\Brazilian E-Commerce Public Dataset by Olist\SCREENSHOTS"
+├── SCREENSHOTS/
 │
 ├── README.md
 ```
