@@ -42,6 +42,23 @@ This project aims to help decision-makers identify patterns affecting customer s
 
 ---
 
+# Skills Demonstrated
+
+- SQL
+- Data Cleaning
+- ETL
+- Exploratory Data Analysis
+- Feature Engineering
+- Machine Learning
+- Predictive Analytics
+- Power BI
+- Data Visualisation
+- Business Intelligence
+- Dashboard Design
+- DAX
+
+---
+
 # Dataset
 **Dataset:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 The raw and processed datasets are not included in this repository due to file size limitations but can be downloaded from the original dataset source
@@ -153,22 +170,6 @@ Interactive dashboards were created to visualise:
 
 ---
 
-# SQL Business Questions Answered
-Examples include:
-
-- Total Revenue Generated
-- Monthly Sales Trend
-- Revenue Growth
-- Top Selling Product Categories
-- Average Delivery Time
-- Customer Review Distribution
-- Most Popular Payment Methods
-- Orders by State
-- Seller Performance
-- Freight Cost Analysis
-
----
-
 # Machine Learning Workflow
 
 ```
@@ -233,23 +234,6 @@ Some insights discovered during analysis include:
 
 ---
 
-# Skills Demonstrated
-
-- SQL
-- Data Cleaning
-- ETL
-- Exploratory Data Analysis
-- Feature Engineering
-- Machine Learning
-- Predictive Analytics
-- Power BI
-- Data Visualisation
-- Business Intelligence
-- Dashboard Design
-- DAX
-
----
-
 # Dashboard Screenshots
 
 | Dashboard | Description |
@@ -279,4 +263,3 @@ LinkedIn: [linkedin.com/in/peter-oladipupo-amosu-05210735b](linkedin.com/in/pete
 
 GitHub: [https://github.com/dipoamosu](https://github.com/dipoamosu)
 
----
