@@ -1,5 +1,5 @@
 
-# Peter's Portfolio
+# Peter Oladipupo Amosu's Portfolio
 
 # [Brazilian E-Commerce Customer Satisfaction Prediction & Business Intelligence Dashboard](https://github.com/dipoamosu/Olist-Brazilian-E-Commerce-Analysis-Portfolio)
 
@@ -61,9 +61,9 @@ This project aims to help decision-makers identify patterns affecting customer s
 
 # Dataset
 **Dataset:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-The raw and processed datasets are not included in this repository due to file size limitations but can be downloaded from the original dataset source
-it contains information about:
+The raw and processed datasets are not included in this repository due to file size limitations but can be downloaded from the original dataset source.
 
+This dataset contains information about:
 - Customers
 - Orders
 - Products
