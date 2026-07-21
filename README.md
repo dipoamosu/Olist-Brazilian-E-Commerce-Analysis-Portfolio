@@ -44,7 +44,8 @@ This project aims to help decision-makers identify patterns affecting customer s
 
 # Dataset
 **Dataset:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-which contains information about:
+The raw and processed datasets are not included in this repository due to file size limitations but can be downloaded from the original dataset source
+it contains information about:
 
 - Customers
 - Orders
@@ -70,6 +71,19 @@ which contains information about:
 <img width="1915" height="1078" alt="ERD" src="https://github.com/user-attachments/assets/1c19d321-06e7-4f17-845b-148921e41855" />
 
 ---
+# SQL Business Questions Answered
+Examples include:
+
+- Total Revenue Generated
+- Monthly Sales Trend
+- Revenue Growth
+- Top Selling Product Categories
+- Average Delivery Time
+- Customer Review Distribution
+- Most Popular Payment Methods
+- Orders by State
+- Seller Performance
+- Freight Cost Analysis
 
 ## Python
 
