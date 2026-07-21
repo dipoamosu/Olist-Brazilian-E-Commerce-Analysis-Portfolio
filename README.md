@@ -1,4 +1,4 @@
-<img width="1915" height="1078" alt="ERD" src="https://github.com/user-attachments/assets/03fcffd4-7330-4b94-aaf6-050ea2a6eaa0" />
+
 # Peter's Portfolio
 
 # [Brazilian E-Commerce Customer Satisfaction Prediction & Business Intelligence Dashboard](https://github.com/dipoamosu/Olist-Brazilian-E-Commerce-Analysis-Portfolio)
